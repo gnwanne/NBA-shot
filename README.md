@@ -1,4 +1,4 @@
-# NBA-shot
+
 # NBA Shot Logs & Stats Analysis
 
 ## Overview  
